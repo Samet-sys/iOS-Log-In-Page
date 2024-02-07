@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "5LV-wU-KTz"; */
+"5LV-wU-KTz.text" = "Tekrar";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "5xa-lN-NeI"; */
+"5xa-lN-NeI.text" = "Şifremi Unuttum";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "B7f-3Z-Rt6"; */
+"B7f-3Z-Rt6.placeholder" = "Parola";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "Cky-YM-gNQ"; */
+"Cky-YM-gNQ.text" = "Henüz bir hesabın yok mu?";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "ONJ-xN-Lkn"; */
+"ONJ-xN-Lkn.configuration.title" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ONJ-xN-Lkn"; */
+"ONJ-xN-Lkn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sing Up"; ObjectID = "b8F-jT-z3V"; */
+"b8F-jT-z3V.text" = "Kayıt Ol";
+
+/* Class = "UILabel"; text = "Back!"; ObjectID = "elc-Uv-2JY"; */
+"elc-Uv-2JY.text" = "Hoşgeldin!";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "fx0-gX-4em"; */
+"fx0-gX-4em.placeholder" = "İsim";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gve-mG-K2C"; */
+"gve-mG-K2C.title" = "Item";
